@@ -3,7 +3,7 @@ Repozytorium zawiera wszystkie notatki, kody źródłowe oraz inne materiały ze
 
 ## PLAN KURSU
 
-### <u>Miesiąc 1: Wprowadzenie do Javy i GIT</u>
+### <ins>Miesiąc 1: Wprowadzenie do Javy i GIT</ins>
 
 #### Podstawy Javy:
 - Składnia Javy
@@ -25,7 +25,7 @@ Repozytorium zawiera wszystkie notatki, kody źródłowe oraz inne materiały ze
 - Gałęzie (branches) i ich zarządzanie
 - Konflikty i ich rozwiązywanie
 
-### <u>Miesiąc 2: Bazy danych SQL i Spring Framework</u>
+### <ins>Miesiąc 2: Bazy danych SQL i Spring Framework</ins>
 
 #### Wprowadzenie do baz danych i SQL:
 - Różnice między różnymi rodzajami baz danych
@@ -44,7 +44,7 @@ Repozytorium zawiera wszystkie notatki, kody źródłowe oraz inne materiały ze
 
 #### Rozpoczęcie pracy nad większym projektem
 
-### <u>Miesiąc 3: Spring Framework</u>
+### <ins>Miesiąc 3: Spring Framework</ins>
 
 #### Spring Data i Hibernate:
 - Repozytoria Spring Data
@@ -56,7 +56,7 @@ Repozytorium zawiera wszystkie notatki, kody źródłowe oraz inne materiały ze
 
 #### Kontynuacja pracy nad większym projektem
 
-### <u>Miesiąc 4: Testowanie i JUnit</u>
+### <ins>Miesiąc 4: Testowanie i JUnit</ins>
 
 #### Podstawy testowania:
 - Dlaczego testowanie jest ważne
@@ -69,7 +69,7 @@ Repozytorium zawiera wszystkie notatki, kody źródłowe oraz inne materiały ze
 
 #### Kontynuacja pracy nad większym projektem
 
-### <u>Miesiąc 5: Wzorce projektowe i clean code</u>
+### <ins>Miesiąc 5: Wzorce projektowe i clean code</ins>
 
 #### Wzorce projektowe:
 - Wprowadzenie do wzorców projektowych
@@ -80,7 +80,7 @@ Repozytorium zawiera wszystkie notatki, kody źródłowe oraz inne materiały ze
 
 #### Kontynuacja pracy nad większym projektem
 
-### <u>Miesiąc 6: Narzędzia i Deployment</u>
+### <ins>Miesiąc 6: Narzędzia i Deployment</ins>
 
 #### Maven:
 - Budowanie projektu w Maven
