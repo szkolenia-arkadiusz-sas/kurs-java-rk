@@ -1,0 +1,33 @@
+Zadanie 1:
+Napisz program w języku Java, który wyświetli na ekranie "Hello, World!" przy użyciu instrukcji System.out.println.
+
+Zadanie 2:
+Stwórz zmienną typu o nazwie "liczba1". Przypisz im dowolne wartości, a następnie wyświetl jej wartość.
+
+Zadanie 3:
+Zadeklaruj zmienną typu String o nazwie "kolor" i przypisz jej wartość "czerwony". Następnie wyświetl tą wartość w konsoli.
+
+Zadanie 4:
+Stwórz dwie zmienne typu int o nazwach "stanKonta" i "wyplacanaKwota". Stwórz dwie instrukcje warunkowe, które sprawdzą, czy możliwa jest operacja wypłaty, czy użytkownik ma za mało środków na koncie. Wyświetl komunikat z informacją.
+
+Zadanie 5:
+Napisz program, który sprawdzi, czy podana liczba jest dodatnia, ujemna czy równa zero. Wykorzystaj instrukcję warunkową IF.
+
+------------------------------------------------------------
+ZADANIA WYMAGAJĄCE DODATKOWYCH INFORMACJI
+------------------------------------------------------------
+
+Zadanie 6:
+Stwórz dwie zmienne typu int o nazwach "liczba1" i "liczba2". Przypisz im dowolne wartości, a następnie wyświetl ich sumę przy użyciu System.out.println.
+
+Zadanie 7:
+Zadeklaruj zmienną typu String o nazwie "kolor" i przypisz jej wartość "zielony". Następnie wyświetl komunikat "Wybrany kolor to: [kolor]".
+
+Zadanie 8:
+Zadeklaruj dwie zmienne typu int o nazwach "wiek1" i "wiek2". Przypisz im różne wartości. Następnie sprawdź, czy obie osoby mają ten sam wiek i wyświetl odpowiedni komunikat.
+
+Zadanie 9:
+Napisz program, który poprosi użytkownika o wprowadzenie swojego imienia za pomocą klasy Scanner, a następnie wyświetli komunikat "Witaj, [imię]!".
+
+Zadanie 10:
+Stwórz program, który przyjmuje od użytkownika liczbę całkowitą. Następnie sprawdź, czy liczba jest podzielna przez 3. Wyświetl odpowiedni komunikat.
