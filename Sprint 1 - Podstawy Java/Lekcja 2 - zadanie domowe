@@ -1,0 +1,42 @@
+Zadanie 1:
+Napisz program, który sprawdza, czy podana liczba jest dodatnia, ujemna czy równa zeru.
+
+Zadanie 2:
+Stwórz program, który sprawdza, czy dana liczba jest parzysta czy nieparzysta.
+
+Zadanie 3:
+Stwórz program, który przyjmuje trzy liczby od użytkownika ze Scannera i wyświetla największą z nich.
+
+Zadanie 4:
+Napisz program, który sprawdza, czy podany rok jest rokiem przestępnym.
+
+Zadanie 5:
+Stwórz prostą kalkulatora, który wykonuje operacje dodawania, odejmowania, mnożenia lub dzielenia na podstawie wyboru użytkownika.
+
+Zadanie 6:
+Napisz program, który używa pętli for do wyświetlenia liczb od 1 do 10.
+
+Zadanie 7:
+Stwórz program, który przyjmuje liczbę od użytkownika i używa pętli while do wyświetlenia kolejnych potęg tej liczby, aż do potęgi 5.
+
+Zadanie 8:
+Napisz program, który używa pętli for do obliczenia sumy liczb od 1 do 100.
+
+Zadanie 9:
+Stwórz prostą grę w zgadywanie liczby, w której program generuje losową liczbę, a użytkownik musi odgadnąć ją za pomocą pętli while.
+
+Zadanie 10:
+Stwórz klasę Book, reprezentującą książkę. Dodaj pola: title, author, year i isbn. Dodaj konstruktor, getter'y i setter'y.
+
+Zadanie 11:
+Napisz program, który tworzy obiekty klasy Book dla trzech różnych książek, ustawia ich właściwości i wyświetla informacje o tych książkach.
+
+Zadanie 12:
+Stwórz klasę Person, która będzie reprezentować osobę. Klasa powinna mieć pola: name, age i gender. Dodaj konstruktor, getter'y i setter'y.
+
+Zadanie 13:
+Napisz program, który tworzy obiekty klasy Person dla dwóch różnych osób, ustawia ich właściwości i wyświetla informacje o tych osobach.
+
+Zadanie 14:
+W klasie Person stwórz metodę, która na podstawie właściwości age zwróci rocznik urodzenia użytkownika w roku 2024.
+Na przykład, jeśli person.age = 24 to funkcja ma zwrócić wartość 2000.
