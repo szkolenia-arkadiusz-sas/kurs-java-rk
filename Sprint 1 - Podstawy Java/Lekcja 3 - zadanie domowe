@@ -1,0 +1,62 @@
+# Wymagania funkcjonalne:
+
+## Tworzenie faktur:
+- Aplikacja powinna umożliwiać użytkownikowi dodanie nowej faktury oraz  wprowadzanie danych dotyczących faktury.
+- Tworzymy wersję demo dla klienta, więc maksymalna liczba faktur dostępnych w programie to 10. Podpowiedź -> można w tym celu skorzystać z tablicy lub listy (ArrayList -> o tym nie mówliśmy, więc tu dodatkowe zadanie na wyszukanie informacji)
+
+``` 
+Przykład zastosowania listy:
+ArrayList<Integer> dynamicznaTablica = new ArrayList<>();
+dynamicznaTablica.add(5);
+int pierwszyElement = dynamicznaTablica.get(0);
+System.out.println("Pierwszy element: " + pierwszyElement);
+```
+
+- Wspólne cechy dla wszystkich faktur:
+    - Numer faktury (np. "FA2024001")
+    - Data wystawienia
+    - Kwota faktury
+    - Klient (zawierający imię, nazwisko, adres, kod kraju) -> Podpowiedź: Warto utworzyć na to oddzielną klasę Client
+
+- Dodatkowe cechy dla klientów z Polski (PL):
+    - NIP (Numer Identyfikacji Podatkowej)
+
+- Dodatkowe cechy dla klientów z Niemiec (DE):
+    - USt-IdNr (Numer identyfikacyjny podatku VAT)
+
+- Dodatkowe cechy dla klientów z USA:
+    - SSN (Numer ubezpieczenia społecznego)
+    - State (Stan zamieszkania)
+
+## Drukowanie faktur:
+
+- Aplikacja powinna umożliwiać drukowanie wszystkich stworzonych faktur w formie czytelnej tabeli w konsoli.
+- Należy założyć następujące kursy 1 EUR = 4 PLN, 1 USD = 4.2 PLN
+
+- Przykładowa propozycja wydrukowanych danych o fakturach:
+```
+-------------------------------
+Faktura VAT Nr: 00123
+Data wystawienia: 2024-02-10
+Klient: John Doe (PL)
+Kwota: 1000.00 PLN
+-------------------------------
+
+-------------------------------
+Faktura Proforma Nr: 00456
+Data wystawienia: 2024-02-11
+Klient: Jane Doe (DE)
+Kwota: 1000.00 EUR
+
+-------------------------------
+Podsumowanie:
+Łączna kwota faktur (PLN): 5000.00 PLN
+Łączna kwota faktur (EUR): 1250.00 PLN
+-------------------------------
+```
+
+## Raporty
+
+- Opracuj funkcję generowania raportów:
+    - Lista faktur dla określonego klienta
+    - Sumy kwot dla poszczególnych krajów

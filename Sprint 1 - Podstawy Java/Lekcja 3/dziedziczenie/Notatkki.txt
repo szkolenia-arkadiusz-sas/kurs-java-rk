@@ -1,0 +1,13 @@
+DOKUMENT DE:
+Numer
+Nazwa klienta
+Nazwa sprzedawcy
+Kraj
+
+DOKUMENT USA:
+Numer
+Nazwa klienta
+Nazwa sprzedawcy
+VAT UE
+
+DRY - Don't repeat yourself
