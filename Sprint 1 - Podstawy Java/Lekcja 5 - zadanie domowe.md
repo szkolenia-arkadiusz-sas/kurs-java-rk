@@ -1,0 +1,6 @@
+## Zadania projektowe
+Zadanie 1. Edycja projektu:
+Zadanie ma na celu przećwiczenie tworzenie wyjątków oraz rozpoznanie, gdzie warto tworzyć wyjątki. Proszę pamiętać, że tu nie ma jednej poprawnej ścieżki. Proszę o stworzenie własnych wyjątków oraz wykorzystanie ich w aplikacji dot. faktur. Proszę przemyśleć, gdzie warto dodać takie wyjątki. Na najbliższych zajęciach porozmiawiamy o podjętych decyzjach. Warto próbować umieszczać elementy, które poznajemy w realnej aplikacji. Jest to trudniejsze niż drobne zadania ćwiczeniowe, ale realizacja zadania i dyskusja o rozwiązaniu zadania w dłuższej perspektywie na pewno dadzą więcej.
+
+Zadanie 2. Raporty
+Zadanie ma na celu dodanie funkcjonalności zapisu danych raportowych do pliku (np. txt, csv - csv bardziej zaawansowane, txt prostsze rozwiązanie, proszę dopasować do możliwości czasowych), które do tej pory były drukowane do konsoli. Super byłoby wydzielić jak najmniejsze klasy, które mają jedną odpowiedzialność (ale to też niekonieczny krok, w zależnosci od możliwości czasowych). Dodać obsługę błędów w procesie zapisu do pliku.
