@@ -1,3 +1,4 @@
+## Interfejsy
 Zadanie 1.
 - Zdefiniuj interfejs Shape z metodą calculateArea().
 - Utwórz klasy Circle i Rectangle, które implementują interfejs Shape.
